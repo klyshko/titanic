@@ -1,2 +1,2 @@
 # titanic
-The Dreadfull classifier of Titanic passengers
+The Dreadful classifier of Titanic passengers
